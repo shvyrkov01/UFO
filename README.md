@@ -19,7 +19,7 @@ Link to privacy policy of third party service providers used by the app
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Facebook](https://www.facebook.com/about/privacy/update/printable)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
-*   [Unity ads](https://unity3d.com/legal/privacy-policy)
+*   [Google AdMob]
 *   [AppMetrica]
 
 **Log Data**
